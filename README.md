@@ -98,7 +98,7 @@ npm install npm@latest -g
 
 * copy the whole content of the subfolder `dist` inside the folder `Yum/src/main/resources/static` so that the `index.html` and all other files now reside in the static folder.
 
-* Open the folder `Yum` in netbeans
+* Open the folder `Yum` in netbeans.
 
 * If you want to change the secret for the JWT token, you can do so in the file `Yum/src/main/java/org/bootcamp/JWTCodec.java` by changing the `key` string.
 
